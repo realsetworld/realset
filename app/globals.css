@@ -56,13 +56,9 @@ body {
   --text-subtle: #52525b;
 
   --accent: #6366f1;
-  /* indigo-500 — replaces yellow */
   --accent-hover: #818cf8;
-  /* indigo-400 */
   --accent-subtle: #1e1b4b;
-  /* indigo-950 */
   --accent-border: #312e81;
-  /* indigo-900 */
   --radius: 8px;
 }
 

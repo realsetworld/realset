@@ -109,7 +109,7 @@ export default function Home() {
             <div className="contact-name">Bhaskar Mishra</div>
             <div className="contact-role">Manager Marketing & Customer Experience</div>
             <div className="contact-links">
-              <a href="tel:+919211992290" className="contact-link">
+              <a href="tel:+919896044947" className="contact-link">
                 <span className="contact-icon">
                   <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="#818cf8" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                     <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07A19.5 19.5 0 0 1 4.69 12 19.79 19.79 0 0 1 1.62 3.38 2 2 0 0 1 3.6 1.22h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.7 2.81a2 2 0 0 1-.45 2.11L7.91 8.96a16 16 0 0 0 6 6l.96-.96a2 2 0 0 1 2.11-.45c.91.34 1.85.57 2.81.7A2 2 0 0 1 21.73 16.92z"/>
